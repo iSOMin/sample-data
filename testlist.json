@@ -1,0 +1,28 @@
+{
+  "testlist": [
+    {
+      "name": "alpha",
+      "age": 23,
+      "color": "green",
+      "nickname": "gosari"
+    },
+    {
+      "name": "beta",
+      "age": 21,
+      "color": "red",
+      "nickname": "apple"
+    },
+    {
+      "name": "cissy",
+      "age": 17,
+      "color": "purple",
+      "nickname": "grape"
+    },
+    {
+      "name": "dori",
+      "age": 20,
+      "color": "blue",
+      "nickname": "bluetang"
+    },
+  ]
+ }
